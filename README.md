@@ -1,1 +1,4 @@
 # mini-rag-app
+
+## Requirements
+
